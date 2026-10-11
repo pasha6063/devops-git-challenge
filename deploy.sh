@@ -1,5 +1,5 @@
 #!/bin/bash
-# Environment: production
+# Environment: staging
 
 echo "Preparing deployment..."
 echo "Target environment: production"
