@@ -1,5 +1,6 @@
 #!/bin/bash
-# Environment: production
+
+# Environment: development and staging merge
 
 echo "Preparing deployment..."
 echo "Target environment: production"
